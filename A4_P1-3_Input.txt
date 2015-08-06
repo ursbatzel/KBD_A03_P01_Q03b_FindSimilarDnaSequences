@@ -1,0 +1,6 @@
+User1 ACGT
+User2 TGCA
+User3 ACG
+User4 ACGT
+User5 ACG
+User6 AGCT
